@@ -1,4 +1,4 @@
-# desafio-conceitos-nodejs
+# Desafio de conceitos sobre Node.js
 Desafio sobre conceitos do Nodejs aplicado no bootcamp GoStack
 
 Neste desafio criamos uma aplicação para armazenar repositórios do portifólio, na aplicação permite-se a criação, listagem, atualização e remoção dos repositórios, e ainda permitir que os repositórios possam receber “likes”.
